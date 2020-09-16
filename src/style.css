@@ -1,0 +1,15 @@
+#root,
+body,
+html {
+  height: 100vh;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: whitesmoke;
+}
+html {
+  scroll-behavior: smooth;
+}
